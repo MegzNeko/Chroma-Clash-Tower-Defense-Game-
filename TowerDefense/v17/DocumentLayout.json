@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|c:\\documents\\uni vega docs\\thirdyear\\second semester\\gade7322\\megan\\towerdefense\\assets\\scripts\\enemies\\enemyspawner\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyspawner\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\enemies\\enemytypes\\meleeenemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemytypes\\meleeenemybehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\terraingeneration\\terrainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\terraingeneration\\terrainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\enemies\\enemiesso\\enemyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemiesso\\enemyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\enemies\\enemyspawner\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyspawner\\spawnmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\enemies\\navmesh\\navmeshbaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\navmesh\\navmeshbaking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\towerplacing\\towerplacing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towerplacing\\towerplacing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\camera\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera\\cameramovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\assets\\scripts\\towers\\center tower (canvas)\\centertower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17BB7AF0-A1AD-DCE4-09CE-1D3A3635465B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\towers\\center tower (canvas)\\centertower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TowerPlacing.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\TowerPlacing\\TowerPlacing.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TowerPlacing\\TowerPlacing.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\TowerPlacing\\TowerPlacing.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TowerPlacing\\TowerPlacing.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAHUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T06:05:23.286Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NavMeshBaking.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\NavMesh\\NavMeshBaking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\NavMesh\\NavMeshBaking.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\NavMesh\\NavMeshBaking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\NavMesh\\NavMeshBaking.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T09:19:30.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemySpawner\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySpawner\\EnemySpawner.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemySpawner\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySpawner\\EnemySpawner.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:19:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpawnManager.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemySpawner\\SpawnManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemySpawner\\SpawnManager.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemySpawner\\SpawnManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemySpawner\\SpawnManager.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T00:25:07.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeleeEnemyBehaviour.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemyTypes\\MeleeEnemyBehaviour.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyTypes\\MeleeEnemyBehaviour.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemyTypes\\MeleeEnemyBehaviour.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyTypes\\MeleeEnemyBehaviour.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4v10AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T07:25:45.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerrainManager.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\TerrainGeneration\\TerrainManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TerrainGeneration\\TerrainManager.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\TerrainGeneration\\TerrainManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TerrainGeneration\\TerrainManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAANQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T12:03:47.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemySO.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemiesSO\\EnemySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemiesSO\\EnemySO.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Enemies\\EnemiesSO\\EnemySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemiesSO\\EnemySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T09:34:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraMovement.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T22:12:31.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CenterTower.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Towers\\Center Tower (Canvas)\\CenterTower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Towers\\Center Tower (Canvas)\\CenterTower.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\Towers\\Center Tower (Canvas)\\CenterTower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Towers\\Center Tower (Canvas)\\CenterTower.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDAAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:14:04.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\UIManager\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager\\UIManager.cs",
+              "ToolTip": "C:\\Documents\\Uni Vega Docs\\ThirdYear\\Second Semester\\GADE7322\\Megan\\TowerDefense\\Assets\\Scripts\\UIManager\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T20:47:17.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
